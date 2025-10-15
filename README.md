@@ -152,7 +152,7 @@ body {
 
 
 ## OUTPUT:
-![alt text](sujal/bookapp/static/cover_output.png)
+![alt text](<sujal/bookapp/static/Screenshot 2025-10-15 140124.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
